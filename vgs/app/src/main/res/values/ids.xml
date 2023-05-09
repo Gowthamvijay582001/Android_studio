@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="cad_input" type="id">100</item>
+    <item name="usd_input" type="id">78.06</item>
+</resources>
